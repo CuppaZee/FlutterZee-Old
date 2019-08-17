@@ -1,2 +1,2 @@
-# flutterzee
-A native CuppaZee App, for iOS and Android, written in Flutter
+# FlutterZee
+A native [CuppaZee](https://cuppazee.uk/) App, for iOS and Android, written in [Flutter](https://flutter.dev/)
