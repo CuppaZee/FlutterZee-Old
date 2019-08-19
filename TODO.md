@@ -6,27 +6,27 @@
 
 ## Features
 
-## User Tab
+### User Tab
 - [ ] User Activity
 - [ ] User Leaderboards
 - [ ] Inventory
 - [ ] ZeeQRew Checker
 
-## Clans Tab
+### Clans Tab
 - [ ] Clan Stats
 
-## Munzees Tab
+### Munzees Tab
 - [ ] Bouncer Maps
 - [ ] Bouncer Types
 - [ ] Munzee Counts
 - [ ] Unique Munzees
 
-## Guide Tab
+### Guide Tab
 - [ ] Munzee Types
 - [x] At a Glance
 - [ ] Munzeer's Handbook
 
-## More Tab
+### More Tab
 - [ ] StreakSaver
 - [ ] Privacy
 - [ ] Contact
