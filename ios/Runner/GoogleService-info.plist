@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>332978779773-9mf4pd59685l14n2gj73ql7tdccg88dk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.332978779773-9mf4pd59685l14n2gj73ql7tdccg88dk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDFN-3MjGA5SiyxObxWxwOMEsXUCJpGNo4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>332978779773</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dev.sohcah.flutterzee</string>
+	<key>PROJECT_ID</key>
+	<string>cuppazeex</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cuppazeex.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:332978779773:ios:5a1763ad2bfe0475</string>
+	<key>DATABASE_URL</key>
+	<string>https://cuppazeex.firebaseio.com</string>
+</dict>
+</plist>

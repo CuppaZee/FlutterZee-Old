@@ -1,0 +1,47 @@
+{
+    "project_info": {
+      "project_number": "332978779773",
+      "firebase_url": "https://cuppazeex.firebaseio.com",
+      "project_id": "cuppazeex",
+      "storage_bucket": "cuppazeex.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:332978779773:android:5a1763ad2bfe0475",
+          "android_client_info": {
+            "package_name": "dev.sohcah.flutterzee"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "332978779773-ndic4cdnp99ulb4mpccdtc1mll4nearm.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAy6GqBZ_K_OVgGEYinGVw57KQadaVMTTE"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "332978779773-ndic4cdnp99ulb4mpccdtc1mll4nearm.apps.googleusercontent.com",
+                "client_type": 3
+              },
+              {
+                "client_id": "332978779773-9mf4pd59685l14n2gj73ql7tdccg88dk.apps.googleusercontent.com",
+                "client_type": 2,
+                "ios_info": {
+                  "bundle_id": "dev.sohcah.flutterzee"
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
