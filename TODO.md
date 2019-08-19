@@ -6,7 +6,7 @@
 
 ## Features
 
-## - User Tab
+## User Tab
 - [ ] User Activity
 - [ ] User Leaderboards
 - [ ] Inventory
