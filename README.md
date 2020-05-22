@@ -1,3 +1,5 @@
+# This was an experimental app. Please see our main Monorepo for our actual app.
+
 # IMPORTANT NOTICE
 **FlutterZee** has been postponed indefinitely due to a requirement in the setup of the `firebase_messaging` requiring the use of Xcode, which is only available on a Mac.
 
